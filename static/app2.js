@@ -1,5 +1,5 @@
 /**
- * Created by ming on 14-11-11.
+ * Created by xiejinjun on 16-11-11.
  * souvenir book ver1.0.1.
  * @description main module for app.
  */
